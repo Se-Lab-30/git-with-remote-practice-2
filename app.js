@@ -1,1 +1,1 @@
-"console.log('Original app');" 
+"console.log('Feature version');" 
