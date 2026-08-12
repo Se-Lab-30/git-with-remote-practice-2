@@ -1,1 +1,1 @@
-"console.log('Original app');" 
+"console.log('Bug fix version');" 
