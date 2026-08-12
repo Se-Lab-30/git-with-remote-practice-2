@@ -1,0 +1,19 @@
+From a1b7a599a7d0da6d31c40d3242e28f82c4720265 Mon Sep 17 00:00:00 2001
+From: Anas-progk <anasanasmohd431@gmail.com>
+Date: Wed, 12 Aug 2026 11:01:52 +0530
+Subject: [PATCH] Fix CSS background
+
+---
+ style.css | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/style.css b/style.css
+index 23283ee..755c9e3 100644
+--- a/style.css
++++ b/style.css
+@@ -1 +1 @@
+-"body { background: white; }" 
++"body { background: cream; }" 
+-- 
+2.53.0.windows.1
+
